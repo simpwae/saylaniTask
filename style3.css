@@ -3,11 +3,12 @@
   padding: 0;
 }
 body {
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
 }
 .container {
-  height: 70vh;
-  width: 60vw;
+  height: 80vh;
+  width: 40vw;
   background-color: white;
   box-shadow: rgba(0, 0, 0, 0.85) 0px 5px 15px;
 

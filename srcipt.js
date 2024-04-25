@@ -9,5 +9,10 @@ submit.addEventListener("click", () => {
   localStorage.setItem("batch", batch);
   localStorage.setItem("section", section);
 
+  console.log(roll);
+  console.log(name1);
+  console.log(batch);
+  console.log(section);
+
   //   window.location.href = ;
 });
