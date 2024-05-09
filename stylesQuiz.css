@@ -1,12 +1,17 @@
 body {
   font-family: Arial, sans-serif;
+  background-color: #e1afd1;
+  color: white;
 }
 
 .quiz {
   width: 50%;
   margin: 0 auto;
   padding: 20px;
-  border: 1px solid black;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  background-color: #7469b6;
+  border-radius: 2px;
 }
 
 .question {
@@ -21,9 +26,9 @@ input[type="submit"] {
   display: block;
   margin: 0 auto;
 }
-button {
-  height: 5vh;
-  width: 10vw;
+#btnnn {
+  height: 3rem;
+  width: 5rem;
   border: none;
   border-radius: 10px;
 }
