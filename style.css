@@ -3,7 +3,7 @@
   padding: 0;
 }
 body {
-  background-color: brown;
+  background-color: #e1afd1;
   font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
     "Lucida Sans", Arial, sans-serif;
   color: aliceblue;
@@ -16,9 +16,9 @@ body {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background-color: rgba(165, 83, 83, 0.822);
+  background-color: #7469b6;
   box-shadow: rgba(0, 0, 0, 0.85) 0px 5px 15px;
-  border-radius: 10px;
+  border-radius: 2px;
   padding: 45px;
 }
 form {
